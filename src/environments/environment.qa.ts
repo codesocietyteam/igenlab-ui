@@ -1,5 +1,5 @@
 export const environment = {
-    production: false,
-    name: 'qa',
-    baseUrl: ''  
-  };
+  production: false,
+  name: 'qa',
+  baseUrl: ''  
+};
