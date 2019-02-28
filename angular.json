@@ -119,6 +119,15 @@
           "configurations": {
             "production": {
               "browserTarget": "igenlab-ui:build:production"
+            },
+            "pp": {
+              "browserTarget": "igenlab-ui:build:pp"
+            },
+            "fix": {
+              "browserTarget": "igenlab-ui:build:fix"
+            },
+            "qa": {
+              "browserTarget": "igenlab-ui:build:qa"
             }
           }
         },
