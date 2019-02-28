@@ -197,5 +197,10 @@
       }
     }
   },
-  "defaultProject": "igenlab-ui"
+  "defaultProject": "igenlab-ui",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "scss"
+    }
+  }
 }
